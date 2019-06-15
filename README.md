@@ -1,5 +1,7 @@
 # Time Analyst
 Package that provides with means to create graphs of your "efficiency"
+![4axes](example_pics/pic0.png)
+![1axes](example_pics/pic1.png)
 
 ## Coefficient of efficiency 
 
@@ -22,3 +24,4 @@ Then you can use **example.py** as a skeleton for your needs.
 
 * Add pie chart showing which tasks you were performing
 * Add setup.py
+* Add support for daily basis expectation
